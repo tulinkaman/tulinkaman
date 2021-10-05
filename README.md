@@ -2,7 +2,7 @@ Hello 👋
 
 My name is Tulin Kaman. I am an Assistant Professor in the Department of Mathematical Sciences at the University of Arkandas. 
 
-My research interest is in modeling and simulation specifically computational fluid dynamics and turbulence, numerical methods for partial differential equations with computer aspects of numerical algorithms and uncertainty quantificiation. My recent work includes the development new efficient and optimized front tracking method for the numerical simulation of multiphase flows.  
+My research interests are at the intersection of modeling and simulations in computational fluid dynamics and turbulence, numerical methods for stochastic partial differential equations, scientific parallel computing and uncertainty quantification. My research involves the study of the turbulent mixing and turbulent combustion to understand the physical instability mechanism on the important scientific and engineering problems. 
 
 My GitHub repo: https://github.com/tulinkaman 
 
