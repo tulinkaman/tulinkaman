@@ -1,6 +1,6 @@
 Hello 👋  
 
-My name is Tulin Kaman. I am Verena Meyer Visiting Professor in the Department of Informatics at the University of Zurich and an affiliated associate professor in the Department of Mathematical Sciences at the University of Arkansas. 
+My name is Tulin Kaman. I am the Verena Meyer Visiting Professor in the Department of Informatics at the University of Zurich and an affiliated associate professor in the Department of Mathematical Sciences at the University of Arkansas. 
 
 My research interests are modeling and simulations of turbulence, numerical methods for stochastic partial differential equations, scientific parallel computing and uncertainty quantification. My research involves the study of the turbulent mixing and turbulent combustion to understand the physical instability mechanism on the important scientific and engineering problems. 
 
